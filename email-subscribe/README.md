@@ -1,7 +1,7 @@
 
 # Email Subscription box
 
-this is a email subscription box that is created using Tailwind, The idea here is to get familiar with tailwind class and environment
+this is an email subscription box that is created using Tailwind, The idea here is to get familiar with Tailwind class and environment
 
 
 ## Screenshots
